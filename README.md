@@ -27,6 +27,12 @@ Columns like height and weight were categorized into ranges using the SWITCH() f
 ->DAX (Data Analysis Expressions): Used for calculating averages, measures, and creating KPIs.<br>
 ->Excel: Utilized for initial data cleaning and handling missing values.<br>
 ->SQL: (Optional, if you ran any queries to handle data before importing to Power BI).
+# DataSet
+<a href="https://github.com/Jai-sanjai/Data-Analysis-Dashboard/blob/main/nba_draft_combine_all_years.csv">Dataset</a>
 # Dashboard
-<a href=""
+<a href="https://github.com/Jai-sanjai/Data-Analysis-Dashboard/blob/main/task_1.png"> Dashboard</a><br>
+![task_1](https://github.com/user-attachments/assets/533083af-cfe1-4848-993e-63efb003d160)
+
+
+
 
